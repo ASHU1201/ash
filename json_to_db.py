@@ -1,6 +1,8 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import json
+#ashritha is bad bondam#
+#chitti chikamma is bad girl#
 
 
 app = Flask(__name__)
